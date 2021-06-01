@@ -1,7 +1,7 @@
 # Streaming videochat 
 ## Laravel - ReactJS - SQLite - Pusher
 
-[![ScreenShot](https://github.com/DarioChiappello/laravel-react-videochat/blob/main/videos/stream1.mp4)](https://youtu.be/yHWOOHVtRBk)
+[![ScreenShot](https://github.com/DarioChiappello/laravel-react-videochat/blob/main/videos/stream1.mp4)](https://github.com/DarioChiappello/laravel-react-videochat/blob/main/videos/stream1.mp4)
 [![ScreenShot](https://github.com/DarioChiappello/laravel-react-videochat/blob/main/videos/min.png)](https://youtu.be/yHWOOHVtRBk)
 
 
