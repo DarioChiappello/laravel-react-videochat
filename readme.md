@@ -1,6 +1,6 @@
 
 
-[![Watch the video](https://github.com/DarioChiappello/laravel-react-videochat/tree/main/videos/stream1.mp4)]
+
 
 ## Contributing
 
