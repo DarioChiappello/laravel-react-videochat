@@ -2,7 +2,7 @@
 ## Laravel - ReactJS - SQLite - Pusher
 
 
-[![ScreenShot](https://github.com/DarioChiappello/laravel-react-videochat/blob/main/videos/min.png)](https://youtu.be/yHWOOHVtRBk)
+[Example](https://youtu.be/yHWOOHVtRBk)
 
 
 
